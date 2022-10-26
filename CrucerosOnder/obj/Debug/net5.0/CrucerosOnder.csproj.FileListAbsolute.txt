@@ -1,0 +1,12 @@
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\bin\Debug\net5.0\CrucerosOnder.deps.json
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\bin\Debug\net5.0\CrucerosOnder.dll
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\bin\Debug\net5.0\CrucerosOnder.pdb
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\obj\Debug\net5.0\CrucerosOnder.csproj.AssemblyReference.cache
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\obj\Debug\net5.0\CrucerosOnder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\obj\Debug\net5.0\CrucerosOnder.AssemblyInfoInputs.cache
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\obj\Debug\net5.0\CrucerosOnder.AssemblyInfo.cs
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\obj\Debug\net5.0\CrucerosOnder.csproj.CoreCompileInputs.cache
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\obj\Debug\net5.0\CrucerosOnder.dll
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\obj\Debug\net5.0\refint\CrucerosOnder.dll
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\obj\Debug\net5.0\CrucerosOnder.pdb
+C:\Users\ungim\source\repos\VelazcoThomasTP1\CrucerosOnder\obj\Debug\net5.0\ref\CrucerosOnder.dll
