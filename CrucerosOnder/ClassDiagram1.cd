@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CrucerosOnder.BaseDeDatos" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAABCBCAAAAAAABAAAA=</HashCode>
+      <FileName>BaseDeDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrucerosOnder.Cruceros" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAACAAAAAgAAAAAgAAAAIGAAAABgAAAA=</HashCode>
+      <FileName>Cruceros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrucerosOnder.Pasajero" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAQAAACEAAAAgAAAAAAAAgAAAIIAAACAAAA=</HashCode>
+      <FileName>Pasajero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrucerosOnder.PasajeroACrucero" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAABEAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PasajeroACrucero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrucerosOnder.Registro" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Registro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrucerosOnder.Usuarios" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAgAAAAAAAAIQAAAAAAgAAAiA=</HashCode>
+      <FileName>Usuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
